@@ -4,7 +4,7 @@
   "description": "a simple example of admin dashboard",
   "main": "index.js",
   "scripts": {
-    "server": "json-server --watch database.json --port 5000",
+    "server": "json-server --watch database.json --port 5000 --middlewares ./middleware.js",
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client \""
   },

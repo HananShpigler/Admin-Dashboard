@@ -19,10 +19,10 @@
       "publishedAt": "09-05-2021"
     },
     {
-      "title": "Post Four",
+      "publishedAt": "2021-05-09",
       "content": "This is the content of post number Four",
-      "publishedAt": "09-05-2021",
-      "id": "Dkx0GKe"
+      "title": "Post Four",
+      "id": "V-gh8jb"
     }
   ],
   "users": [
