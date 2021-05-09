@@ -3,7 +3,7 @@ import { Edit, SimpleForm, TextInput, DateInput } from "react-admin";
 
 const PostEdit = (props) => {
   return (
-    <Edit title="Update Post" {...props}>
+    <Edit title="Edit Post" {...props}>
       <SimpleForm>
         <TextInput disabled source="id" />
         <TextInput source="title" />

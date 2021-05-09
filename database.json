@@ -1,35 +1,39 @@
 {
   "posts": [
     {
-      "id": "1",
       "title": "Post One",
-      "content": "This is the content of post number one",
-      "publishedAt": "09-05-2021"
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "publishedAt": "1990-11-02",
+      "id": "jDeLzNW"
     },
     {
-      "id": "2",
       "title": "Post Two",
-      "content": "This is the content of post number two",
-      "publishedAt": "09-05-2021"
+      "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "publishedAt": "2010-01-01",
+      "id": "ox3t0hQ"
     },
     {
-      "id": "3",
       "title": "Post Three",
-      "content": "This is the content of post number three",
-      "publishedAt": "09-05-2021"
-    },
-    {
-      "publishedAt": "2021-05-09",
-      "content": "This is the content of post number Four",
-      "title": "Post Four",
-      "id": "V-gh8jb"
+      "content": "Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "publishedAt": "2021-01-10",
+      "id": "hd-CL3B"
     }
   ],
   "users": [
     {
-      "id": "1",
-      "name": "example",
-      "email": "example@gmail.com"
+      "name": "Hanan",
+      "email": "Hanan@gmail.com",
+      "id": "tlO9C-E"
+    },
+    {
+      "name": "John",
+      "email": "john@yahoo.com",
+      "id": "Ei6Md5z"
+    },
+    {
+      "name": "Example",
+      "email": "example123@gmail.com",
+      "id": "6cYFI4e"
     }
   ]
 }
