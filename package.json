@@ -1,0 +1,25 @@
+{
+  "name": "react-admin-dashboard",
+  "version": "1.0.0",
+  "description": "a simple example of admin dashboard",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch database.json --port 5000",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client \""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HananShpigler/Admin-Dashboard.git"
+  },
+  "author": "Hanan Shpigler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HananShpigler/Admin-Dashboard/issues"
+  },
+  "homepage": "https://github.com/HananShpigler/Admin-Dashboard#readme",
+  "dependencies": {
+    "concurrently": "^6.1.0",
+    "json-server": "^0.16.3"
+  }
+}
